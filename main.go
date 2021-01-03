@@ -1,4 +1,4 @@
-package main
+package golang6
 
 import (
     "fmt"
@@ -7,7 +7,7 @@ import (
 
 
 
-func main() {
+func Golang6() {
 
     fmt.Println("go3 main")
 }
